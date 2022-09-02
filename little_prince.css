@@ -1,0 +1,14 @@
+.highlight-word-color {
+    background-color: orange;
+}
+
+.word-color {
+    color: red;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
